@@ -16,3 +16,4 @@ Important:
 - Vehicle photos/videos and listings are stored in the device browser/app storage. This is a local first version; it does not synchronize across phones.
 - WhatsApp quotation opens the official WhatsApp web/app URL with a prefilled quotation. The client must still press Send in WhatsApp.
 - For larger videos or multi-device staff access, a cloud database/storage backend should be added in the next version.
+.
